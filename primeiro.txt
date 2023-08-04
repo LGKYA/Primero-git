@@ -1,1 +1,3 @@
 # Meu primeiro repositório GIT
+Segunda linha de configuração
+Terceira linha adicionada no arquivo
